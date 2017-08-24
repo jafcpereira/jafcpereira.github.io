@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "José Pereira"
+  name             : "Jose Pereira"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "5th year Medical student, passionate about statistics, technology, healthcare and other stuff."
   location         : "Portugal"
-  email            :jafcpereira@gmail.com
+  email            : jafcpereira@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -90,13 +90,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :jafcpereira
+  github           : jafcpereira
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :jafcpereira
+  linkedin         : jafcpereira
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -180,7 +180,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -243,6 +243,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
